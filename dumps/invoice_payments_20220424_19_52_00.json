@@ -1,0 +1,358 @@
+[
+    {
+        "customer_id": 46,
+        "first_name": "Hugh",
+        "last_name": "O'Reilly",
+        "total_paid": 23.84,
+        "invoices": [
+            {
+                "date": "2011-03-18 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-04-28 00:00:00",
+                "amount": 21.86
+            }
+        ]
+    },
+    {
+        "customer_id": 25,
+        "first_name": "Victor",
+        "last_name": "Stevens",
+        "total_paid": 20.84,
+        "invoices": [
+            {
+                "date": "2011-04-18 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-05-29 00:00:00",
+                "amount": 18.86
+            }
+        ]
+    },
+    {
+        "customer_id": 8,
+        "first_name": "Daan",
+        "last_name": "Peeters",
+        "total_paid": 15.84,
+        "invoices": [
+            {
+                "date": "2011-02-15 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-03-28 00:00:00",
+                "amount": 13.86
+            }
+        ]
+    },
+    {
+        "customer_id": 29,
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "total_paid": 15.84,
+        "invoices": [
+            {
+                "date": "2011-01-15 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-02-25 00:00:00",
+                "amount": 13.86
+            }
+        ]
+    },
+    {
+        "customer_id": 37,
+        "first_name": "Fynn",
+        "last_name": "Zimmermann",
+        "total_paid": 14.91,
+        "invoices": [
+            {
+                "date": "2011-04-23 00:00:00",
+                "amount": 14.91
+            }
+        ]
+    },
+    {
+        "customer_id": 50,
+        "first_name": "Enrique",
+        "last_name": "Mu\u00f1oz",
+        "total_paid": 13.86,
+        "invoices": [
+            {
+                "date": "2011-01-25 00:00:00",
+                "amount": 13.86
+            }
+        ]
+    },
+    {
+        "customer_id": 10,
+        "first_name": "Eduardo",
+        "last_name": "Martins",
+        "total_paid": 9.9,
+        "invoices": [
+            {
+                "date": "2011-02-16 00:00:00",
+                "amount": 3.96
+            },
+            {
+                "date": "2011-05-21 00:00:00",
+                "amount": 5.94
+            }
+        ]
+    },
+    {
+        "customer_id": 31,
+        "first_name": "Martha",
+        "last_name": "Silk",
+        "total_paid": 9.9,
+        "invoices": [
+            {
+                "date": "2011-01-16 00:00:00",
+                "amount": 3.96
+            },
+            {
+                "date": "2011-04-20 00:00:00",
+                "amount": 5.94
+            }
+        ]
+    },
+    {
+        "customer_id": 16,
+        "first_name": "Frank",
+        "last_name": "Harris",
+        "total_paid": 8.91,
+        "invoices": [
+            {
+                "date": "2011-05-24 00:00:00",
+                "amount": 8.91
+            }
+        ]
+    },
+    {
+        "customer_id": 20,
+        "first_name": "Dan",
+        "last_name": "Miller",
+        "total_paid": 8.91,
+        "invoices": [
+            {
+                "date": "2011-02-20 00:00:00",
+                "amount": 8.91
+            }
+        ]
+    },
+    {
+        "customer_id": 41,
+        "first_name": "Marc",
+        "last_name": "Dubois",
+        "total_paid": 8.91,
+        "invoices": [
+            {
+                "date": "2011-01-20 00:00:00",
+                "amount": 8.91
+            }
+        ]
+    },
+    {
+        "customer_id": 58,
+        "first_name": "Manoj",
+        "last_name": "Pareek",
+        "total_paid": 8.91,
+        "invoices": [
+            {
+                "date": "2011-03-23 00:00:00",
+                "amount": 8.91
+            }
+        ]
+    },
+    {
+        "customer_id": 14,
+        "first_name": "Mark",
+        "last_name": "Philips",
+        "total_paid": 5.94,
+        "invoices": [
+            {
+                "date": "2011-02-17 00:00:00",
+                "amount": 5.94
+            }
+        ]
+    },
+    {
+        "customer_id": 35,
+        "first_name": "Madalena",
+        "last_name": "Sampaio",
+        "total_paid": 5.94,
+        "invoices": [
+            {
+                "date": "2011-01-17 00:00:00",
+                "amount": 5.94
+            }
+        ]
+    },
+    {
+        "customer_id": 52,
+        "first_name": "Emma",
+        "last_name": "Jones",
+        "total_paid": 5.94,
+        "invoices": [
+            {
+                "date": "2011-03-20 00:00:00",
+                "amount": 5.94
+            }
+        ]
+    },
+    {
+        "customer_id": 6,
+        "first_name": "Helena",
+        "last_name": "Hol\u00fd",
+        "total_paid": 5.94,
+        "invoices": [
+            {
+                "date": "2011-02-15 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-05-20 00:00:00",
+                "amount": 3.96
+            }
+        ]
+    },
+    {
+        "customer_id": 27,
+        "first_name": "Patrick",
+        "last_name": "Gray",
+        "total_paid": 5.94,
+        "invoices": [
+            {
+                "date": "2011-01-15 00:00:00",
+                "amount": 1.98
+            },
+            {
+                "date": "2011-04-19 00:00:00",
+                "amount": 3.96
+            }
+        ]
+    },
+    {
+        "customer_id": 48,
+        "first_name": "Johannes",
+        "last_name": "Van der Berg",
+        "total_paid": 3.96,
+        "invoices": [
+            {
+                "date": "2011-03-19 00:00:00",
+                "amount": 3.96
+            }
+        ]
+    },
+    {
+        "customer_id": 2,
+        "first_name": "Leonie",
+        "last_name": "K\u00f6hler",
+        "total_paid": 1.98,
+        "invoices": [
+            {
+                "date": "2011-05-19 00:00:00",
+                "amount": 1.98
+            }
+        ]
+    },
+    {
+        "customer_id": 4,
+        "first_name": "Bj\u00f8rn",
+        "last_name": "Hansen",
+        "total_paid": 1.98,
+        "invoices": [
+            {
+                "date": "2011-05-19 00:00:00",
+                "amount": 1.98
+            }
+        ]
+    },
+    {
+        "customer_id": 23,
+        "first_name": "John",
+        "last_name": "Gordon",
+        "total_paid": 1.98,
+        "invoices": [
+            {
+                "date": "2011-04-18 00:00:00",
+                "amount": 1.98
+            }
+        ]
+    },
+    {
+        "customer_id": 44,
+        "first_name": "Terhi",
+        "last_name": "H\u00e4m\u00e4l\u00e4inen",
+        "total_paid": 1.98,
+        "invoices": [
+            {
+                "date": "2011-03-18 00:00:00",
+                "amount": 1.98
+            }
+        ]
+    },
+    {
+        "customer_id": 1,
+        "first_name": "Lu\u00eds",
+        "last_name": "Gon\u00e7alves",
+        "total_paid": 0.99,
+        "invoices": [
+            {
+                "date": "2011-05-06 00:00:00",
+                "amount": 0.99
+            }
+        ]
+    },
+    {
+        "customer_id": 5,
+        "first_name": "Franti\u0161ek",
+        "last_name": "Wichterlov\u00e1",
+        "total_paid": 0.99,
+        "invoices": [
+            {
+                "date": "2011-02-02 00:00:00",
+                "amount": 0.99
+            }
+        ]
+    },
+    {
+        "customer_id": 22,
+        "first_name": "Heather",
+        "last_name": "Leacock",
+        "total_paid": 0.99,
+        "invoices": [
+            {
+                "date": "2011-04-05 00:00:00",
+                "amount": 0.99
+            }
+        ]
+    },
+    {
+        "customer_id": 26,
+        "first_name": "Richard",
+        "last_name": "Cunningham",
+        "total_paid": 0.99,
+        "invoices": [
+            {
+                "date": "2011-01-02 00:00:00",
+                "amount": 0.99
+            }
+        ]
+    },
+    {
+        "customer_id": 43,
+        "first_name": "Isabelle",
+        "last_name": "Mercier",
+        "total_paid": 0.99,
+        "invoices": [
+            {
+                "date": "2011-03-05 00:00:00",
+                "amount": 0.99
+            }
+        ]
+    }
+]
