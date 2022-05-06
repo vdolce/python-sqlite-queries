@@ -98,13 +98,13 @@ def cursor_to_dict(cursor):
             customer_dict["customer_id"] = row[0]
             customer_dict["first_name"] = row[1]
             customer_dict["last_name"] = row[2]
-            customer_dict["total_paid"] = row[3]
+            customer_dict["total_paid"] = str(row[3])
             customer_dict["invoices"] = []
             final_list.append(customer_dict)
 
         invoice_dict = {
             "date": row[4],
-            "amount": row[5],
+            "amount": str(row[5]),
         }
         final_list[-1]["invoices"].append(invoice_dict)
 

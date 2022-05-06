@@ -13,35 +13,35 @@ The JSON output will be the following format:
         "customer_id": 57,
         "first_name": "Luis",
         "last_name": "Rojas",
-        "total_paid": 46.62,
+        "total_paid": "46.62",
         "individual_payments": [
             {
                 "date": "2009-04-04 00:00:00",
-                "amount": 1.98
+                "amount": "1.98"
             },
             {
                 "date": "2009-05-15 00:00:00",
-                "amount": 13.86
+                "amount": "13.86"
             },
             {
                 "date": "2010-01-13 00:00:00",
-                "amount": 17.91
+                "amount": "17.91"
             },
             {
                 "date": "2011-08-20 00:00:00",
-                "amount": 1.98
+                "amount": "1.98"
             },
             {
                 "date": "2011-11-22 00:00:00",
-                "amount": 3.96
+                "amount": "3.96"
             },
             {
                 "date": "2012-02-24 00:00:00",
-                "amount": 5.94
+                "amount": "5.94"
             },
             {
                 "date": "2012-10-14 00:00:00",
-                "amount": 0.99
+                "amount": "0.99"
             }
         ]
     },
