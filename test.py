@@ -1,8 +1,8 @@
 """ Testing file """
 
 import json
-from unittest.mock import ANY, patch
-
+from unittest.mock import MagicMock
+import sqlite3
 import pytest
 
 import main
@@ -66,33 +66,33 @@ def test_cursor_to_dict():
     """
     Testing sqlite3 cursor result to dictionary
     """
-    with patch("main.execute_query"):
-        out_query = main.execute_query(ANY, ANY, ANY).return_value = [
-            (6, "Helena", "Holý", 49.62, "2009-07-11 00:00:00", 8.91),
-            (6, "Helena", "Holý", 49.62, "2011-02-15 00:00:00", 1.98),
-            (6, "Helena", "Holý", 49.62, "2011-05-20 00:00:00", 3.96),
-            (6, "Helena", "Holý", 49.62, "2011-08-22 00:00:00", 5.94),
-            (6, "Helena", "Holý", 49.62, "2012-04-11 00:00:00", 0.99),
-            (6, "Helena", "Holý", 49.62, "2013-10-03 00:00:00", 1.98),
-            (6, "Helena", "Holý", 49.62, "2013-11-13 00:00:00", 25.86),
-        ]
-
-    out_dict = cursor_to_dict(out_query)
+    cursor = MagicMock(sqlite3.Cursor)
+    cursor.fetchall.return_value = [
+        (6, "Helena", "Holý", "49.62", "2009-07-11 00:00:00", 8.91),
+        (6, "Helena", "Holý", "49.62", "2011-02-15 00:00:00", 1.98),
+        (6, "Helena", "Holý", "49.62", "2011-05-20 00:00:00", 3.96),
+        (6, "Helena", "Holý", "49.62", "2011-08-22 00:00:00", 5.94),
+        (6, "Helena", "Holý", "49.62", "2012-04-11 00:00:00", 0.99),
+        (6, "Helena", "Holý", "49.62", "2013-10-03 00:00:00", 1.98),
+        (6, "Helena", "Holý", "49.62", "2013-11-13 00:00:00", 25.86),
+    ]
+    query_outupt = cursor.fetchall()
+    out_dict = cursor_to_dict(query_outupt)
 
     output_to_be = [
         {
             "customer_id": 6,
             "first_name": "Helena",
             "last_name": "Holý",
-            "total_paid": 49.62,
+            "total_paid": "49.62",
             "invoices": [
-                {"date": "2009-07-11 00:00:00", "amount": 8.91},
-                {"date": "2011-02-15 00:00:00", "amount": 1.98},
-                {"date": "2011-05-20 00:00:00", "amount": 3.96},
-                {"date": "2011-08-22 00:00:00", "amount": 5.94},
-                {"date": "2012-04-11 00:00:00", "amount": 0.99},
-                {"date": "2013-10-03 00:00:00", "amount": 1.98},
-                {"date": "2013-11-13 00:00:00", "amount": 25.86},
+                {"date": "2009-07-11 00:00:00", "amount": "8.91"},
+                {"date": "2011-02-15 00:00:00", "amount": "1.98"},
+                {"date": "2011-05-20 00:00:00", "amount": "3.96"},
+                {"date": "2011-08-22 00:00:00", "amount": "5.94"},
+                {"date": "2012-04-11 00:00:00", "amount": "0.99"},
+                {"date": "2013-10-03 00:00:00", "amount": "1.98"},
+                {"date": "2013-11-13 00:00:00", "amount": "25.86"},
             ],
         }
     ]
