@@ -1,15 +1,17 @@
+""" Main file """
 import argparse
 import json
 import os
 import sqlite3
-from datetime import datetime, date
+from datetime import date, datetime
+from typing import List, Optional, Tuple
 
 from dateutil.parser import isoparse
 
 from queries import FILTERED_INVOICES_QUERY
 
 
-def is_date(string):
+def is_date(string: str) -> bool:
     """
     Return whether the string is an iso date (YYYY-MM-DD) or not
     """
@@ -22,21 +24,21 @@ def is_date(string):
         return False
 
 
-def valid_dates(start_date, end_date):
+def valid_dates(start_date: str, end_date: str) -> bool:
     """
     This function verify is the end date is greater or equal to the start date
     """
     return datetime.fromisoformat(start_date) <= datetime.fromisoformat(end_date)
 
 
-def current_time_string():
+def current_time_string() -> str:
     """
     Return a string with the UTC datetime in the following format YYYYMMDD_hh_mm_ss
     """
     return datetime.utcnow().strftime("%Y%m%d_%H_%M_%S")
 
 
-def write_json(dict_data, filename):
+def write_json(dict_data: List[dict], filename: str) -> None:
     """
     Dump a dictionary into a json file in the `/dumps` folder
     The filename has the current datetime (UTC format)
@@ -48,7 +50,10 @@ def write_json(dict_data, filename):
         print(f"Created file {filename}")
 
 
-def open_db_connection():
+def open_db_connection() -> Tuple[
+    sqlite3.Connection,
+    sqlite3.Cursor,
+]:
     """
     Return a cursor to make queries
     """
@@ -62,7 +67,9 @@ def open_db_connection():
         raise
 
 
-def execute_query(db_cursor, query, query_params):
+def execute_query(
+    db_cursor: sqlite3.Cursor, query: str, query_params: dict
+) -> sqlite3.Cursor:
     """
     Return a cursor with the query result
     """
@@ -73,7 +80,7 @@ def execute_query(db_cursor, query, query_params):
         raise
 
 
-def close_db_connection(connection):
+def close_db_connection(connection: sqlite3.Connection) -> None:
     """
     Close DB connection
     """
@@ -82,7 +89,7 @@ def close_db_connection(connection):
         print("The SQLite connection is closed")
 
 
-def cursor_to_dict(cursor):
+def cursor_to_dict(cursor: sqlite3.Cursor) -> List[dict]:
     """
     From a cursor, it creates a list of dictionaries,
     where each dictionary has all the customer's data and invoices' information
@@ -111,7 +118,7 @@ def cursor_to_dict(cursor):
     return final_list
 
 
-def main(start=None, end=None):
+def main(start: Optional[str] = None, end: Optional[str] = None) -> None:
     """
     Main function
     """

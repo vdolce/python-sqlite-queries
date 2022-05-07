@@ -1,0 +1,1222 @@
+[
+    {
+        "customer_id": 57,
+        "first_name": "Luis",
+        "last_name": "Rojas",
+        "total_paid": "33.75",
+        "invoices": [
+            {
+                "date": "2009-04-04 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-05-15 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-01-13 00:00:00",
+                "amount": "17.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 45,
+        "first_name": "Ladislav",
+        "last_name": "Kov\u00e1cs",
+        "total_paid": "32.75",
+        "invoices": [
+            {
+                "date": "2010-01-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-02-18 00:00:00",
+                "amount": "21.86"
+            },
+            {
+                "date": "2010-10-19 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 7,
+        "first_name": "Astrid",
+        "last_name": "Gruber",
+        "total_paid": "29.75",
+        "invoices": [
+            {
+                "date": "2009-12-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-01-18 00:00:00",
+                "amount": "18.86"
+            },
+            {
+                "date": "2010-09-18 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 3,
+        "first_name": "Fran\u00e7ois",
+        "last_name": "Tremblay",
+        "total_paid": "26.75",
+        "invoices": [
+            {
+                "date": "2010-03-11 00:00:00",
+                "amount": "3.98"
+            },
+            {
+                "date": "2010-04-21 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-12-20 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 24,
+        "first_name": "Frank",
+        "last_name": "Ralston",
+        "total_paid": "26.75",
+        "invoices": [
+            {
+                "date": "2010-02-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-03-21 00:00:00",
+                "amount": "15.86"
+            },
+            {
+                "date": "2010-11-19 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 15,
+        "first_name": "Jennifer",
+        "last_name": "Peterson",
+        "total_paid": "25.75",
+        "invoices": [
+            {
+                "date": "2009-06-05 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-07-16 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-03-16 00:00:00",
+                "amount": "9.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 2,
+        "first_name": "Leonie",
+        "last_name": "K\u00f6hler",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-01-01 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-02-11 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2009-10-12 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 11,
+        "first_name": "Alexandre",
+        "last_name": "Rocha",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-09-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-10-17 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-06-17 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 19,
+        "first_name": "Tim",
+        "last_name": "Goyer",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-03-04 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-04-14 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2009-12-13 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 20,
+        "first_name": "Dan",
+        "last_name": "Miller",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2010-05-12 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-06-22 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2011-02-20 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 28,
+        "first_name": "Julia",
+        "last_name": "Barnett",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-11-07 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-12-18 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-08-18 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 32,
+        "first_name": "Aaron",
+        "last_name": "Mitchell",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-08-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-09-16 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-05-17 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 36,
+        "first_name": "Hannah",
+        "last_name": "Schneider",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-05-05 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-06-15 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-02-13 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 40,
+        "first_name": "Dominique",
+        "last_name": "Lefebvre",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-02-01 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-03-14 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2009-11-12 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 41,
+        "first_name": "Marc",
+        "last_name": "Dubois",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2010-04-11 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-05-22 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2011-01-20 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 49,
+        "first_name": "Stanis\u0142aw",
+        "last_name": "W\u00f3jcik",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-10-07 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-11-17 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-07-18 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 53,
+        "first_name": "Phil",
+        "last_name": "Hughes",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2009-07-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-08-16 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2010-04-16 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 58,
+        "first_name": "Manoj",
+        "last_name": "Pareek",
+        "total_paid": "24.75",
+        "invoices": [
+            {
+                "date": "2010-06-12 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-07-23 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2011-03-23 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 8,
+        "first_name": "Daan",
+        "last_name": "Peeters",
+        "total_paid": "22.77",
+        "invoices": [
+            {
+                "date": "2009-01-03 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2009-08-24 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2011-02-15 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-03-28 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 23,
+        "first_name": "John",
+        "last_name": "Gordon",
+        "total_paid": "22.77",
+        "invoices": [
+            {
+                "date": "2009-01-11 00:00:00",
+                "amount": "13.86"
+            },
+            {
+                "date": "2009-09-11 00:00:00",
+                "amount": "8.91"
+            }
+        ]
+    },
+    {
+        "customer_id": 14,
+        "first_name": "Mark",
+        "last_name": "Philips",
+        "total_paid": "20.79",
+        "invoices": [
+            {
+                "date": "2009-01-06 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2010-08-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-11-15 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2011-02-17 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 52,
+        "first_name": "Emma",
+        "last_name": "Jones",
+        "total_paid": "20.79",
+        "invoices": [
+            {
+                "date": "2009-02-06 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2010-09-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-12-16 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2011-03-20 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 12,
+        "first_name": "Roberto",
+        "last_name": "Almeida",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-05-23 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-11-14 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-12-25 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 16,
+        "first_name": "Frank",
+        "last_name": "Harris",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-02-19 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-08-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-09-23 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 29,
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-07-24 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2011-01-15 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-02-25 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 33,
+        "first_name": "Ellie",
+        "last_name": "Sullivan",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-04-22 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-10-14 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-11-24 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 37,
+        "first_name": "Fynn",
+        "last_name": "Zimmermann",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-01-19 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-07-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-08-23 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 50,
+        "first_name": "Enrique",
+        "last_name": "Mu\u00f1oz",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-06-23 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-12-15 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-01-25 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 54,
+        "first_name": "Steve",
+        "last_name": "Murray",
+        "total_paid": "16.83",
+        "invoices": [
+            {
+                "date": "2009-03-22 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2010-09-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-10-24 00:00:00",
+                "amount": "13.86"
+            }
+        ]
+    },
+    {
+        "customer_id": 10,
+        "first_name": "Eduardo",
+        "last_name": "Martins",
+        "total_paid": "14.85",
+        "invoices": [
+            {
+                "date": "2009-04-09 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2010-11-14 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-02-16 00:00:00",
+                "amount": "3.96"
+            }
+        ]
+    },
+    {
+        "customer_id": 31,
+        "first_name": "Martha",
+        "last_name": "Silk",
+        "total_paid": "14.85",
+        "invoices": [
+            {
+                "date": "2009-03-09 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2010-10-14 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-01-16 00:00:00",
+                "amount": "3.96"
+            }
+        ]
+    },
+    {
+        "customer_id": 48,
+        "first_name": "Johannes",
+        "last_name": "Van der Berg",
+        "total_paid": "14.85",
+        "invoices": [
+            {
+                "date": "2009-05-10 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2010-12-15 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2011-03-19 00:00:00",
+                "amount": "3.96"
+            }
+        ]
+    },
+    {
+        "customer_id": 1,
+        "first_name": "Lu\u00eds",
+        "last_name": "Gon\u00e7alves",
+        "total_paid": "13.88",
+        "invoices": [
+            {
+                "date": "2010-03-11 00:00:00",
+                "amount": "3.98"
+            },
+            {
+                "date": "2010-06-13 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-09-15 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 51,
+        "first_name": "Joakim",
+        "last_name": "Johansson",
+        "total_paid": "13.87",
+        "invoices": [
+            {
+                "date": "2009-07-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-10-08 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-01-10 00:00:00",
+                "amount": "6.94"
+            },
+            {
+                "date": "2010-08-31 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 5,
+        "first_name": "Franti\u0161ek",
+        "last_name": "Wichterlov\u00e1",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-12-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-03-12 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-06-14 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2011-02-02 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 9,
+        "first_name": "Kara",
+        "last_name": "Nielsen",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-09-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-12-09 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-03-13 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-11-01 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 13,
+        "first_name": "Fernanda",
+        "last_name": "Ramos",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-06-05 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-09-07 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-12-10 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-07-31 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 17,
+        "first_name": "Jack",
+        "last_name": "Smith",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-03-04 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-06-06 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-09-08 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-04-29 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 26,
+        "first_name": "Richard",
+        "last_name": "Cunningham",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-11-07 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-02-09 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-05-14 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2011-01-02 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 30,
+        "first_name": "Edward",
+        "last_name": "Francis",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-08-06 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-11-08 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-02-10 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-10-01 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 34,
+        "first_name": "Jo\u00e3o",
+        "last_name": "Fernandes",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-05-05 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-08-07 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-11-09 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-06-30 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 38,
+        "first_name": "Niklas",
+        "last_name": "Schr\u00f6der",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-02-01 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-05-06 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-08-08 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-03-29 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 43,
+        "first_name": "Isabelle",
+        "last_name": "Mercier",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2010-01-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-04-12 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-07-15 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2011-03-05 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 47,
+        "first_name": "Lucas",
+        "last_name": "Mancini",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-10-07 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-01-09 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-04-13 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-12-02 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 55,
+        "first_name": "Mark",
+        "last_name": "Taylor",
+        "total_paid": "12.87",
+        "invoices": [
+            {
+                "date": "2009-04-04 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2009-07-07 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-10-09 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-05-30 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 59,
+        "first_name": "Puja",
+        "last_name": "Srivastava",
+        "total_paid": "11.89",
+        "invoices": [
+            {
+                "date": "2009-04-05 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-07-08 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-02-26 00:00:00",
+                "amount": "1.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 18,
+        "first_name": "Michelle",
+        "last_name": "Brooks",
+        "total_paid": "11.88",
+        "invoices": [
+            {
+                "date": "2010-05-12 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-08-14 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-11-16 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 22,
+        "first_name": "Heather",
+        "last_name": "Leacock",
+        "total_paid": "11.88",
+        "invoices": [
+            {
+                "date": "2010-02-08 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-05-13 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-08-15 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 35,
+        "first_name": "Madalena",
+        "last_name": "Sampaio",
+        "total_paid": "11.88",
+        "invoices": [
+            {
+                "date": "2010-07-13 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-10-15 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2011-01-17 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 39,
+        "first_name": "Camille",
+        "last_name": "Bernard",
+        "total_paid": "11.88",
+        "invoices": [
+            {
+                "date": "2010-04-11 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-07-14 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-10-16 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 56,
+        "first_name": "Diego",
+        "last_name": "Guti\u00e9rrez",
+        "total_paid": "11.88",
+        "invoices": [
+            {
+                "date": "2010-06-12 00:00:00",
+                "amount": "1.98"
+            },
+            {
+                "date": "2010-09-14 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2010-12-17 00:00:00",
+                "amount": "5.94"
+            }
+        ]
+    },
+    {
+        "customer_id": 4,
+        "first_name": "Bj\u00f8rn",
+        "last_name": "Hansen",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-01-02 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-04-06 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2009-11-25 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 6,
+        "first_name": "Helena",
+        "last_name": "Hol\u00fd",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-07-11 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2011-02-15 00:00:00",
+                "amount": "1.98"
+            }
+        ]
+    },
+    {
+        "customer_id": 21,
+        "first_name": "Kathy",
+        "last_name": "Chase",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-03-05 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-06-07 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2010-01-26 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 27,
+        "first_name": "Patrick",
+        "last_name": "Gray",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-06-10 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2011-01-15 00:00:00",
+                "amount": "1.98"
+            }
+        ]
+    },
+    {
+        "customer_id": 42,
+        "first_name": "Wyatt",
+        "last_name": "Girard",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-02-02 00:00:00",
+                "amount": "3.96"
+            },
+            {
+                "date": "2009-05-07 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2009-12-26 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    },
+    {
+        "customer_id": 44,
+        "first_name": "Terhi",
+        "last_name": "H\u00e4m\u00e4l\u00e4inen",
+        "total_paid": "10.89",
+        "invoices": [
+            {
+                "date": "2009-08-11 00:00:00",
+                "amount": "8.91"
+            },
+            {
+                "date": "2011-03-18 00:00:00",
+                "amount": "1.98"
+            }
+        ]
+    },
+    {
+        "customer_id": 46,
+        "first_name": "Hugh",
+        "last_name": "O'Reilly",
+        "total_paid": "8.91",
+        "invoices": [
+            {
+                "date": "2009-02-03 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2009-09-24 00:00:00",
+                "amount": "0.99"
+            },
+            {
+                "date": "2011-03-18 00:00:00",
+                "amount": "1.98"
+            }
+        ]
+    },
+    {
+        "customer_id": 25,
+        "first_name": "Victor",
+        "last_name": "Stevens",
+        "total_paid": "6.93",
+        "invoices": [
+            {
+                "date": "2009-03-06 00:00:00",
+                "amount": "5.94"
+            },
+            {
+                "date": "2009-10-25 00:00:00",
+                "amount": "0.99"
+            }
+        ]
+    }
+]
